@@ -1,8 +1,7 @@
 **<h2>Instruções de como compilar e executar o programa:**
 
-<h6>Clique em Cadastro, src/Cadastrando e salve o arquivo Efetuando.java na sua área de trabalho
 
-<h6>Windows: Após salvar o arquivo .java, pressione a tecla Win + R; digite cmd e tecle enter. Após isso digite os comandos a seguir:
+ <h6>Windows: Após salvar o arquivo .java, pressione a tecla Win + R; digite cmd e tecle enter. Após isso digite os comandos a seguir:
 
 **<h4>• cd Desktop aperte enter**
 
